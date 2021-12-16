@@ -10,4 +10,4 @@ microprocessor, sensor and other advancing technology areas while making product
 5. Demonstrate the ability to work within a maker studio environment to design, build, test and revise products that meet 
 client timeline, design and quality requirements.<br>
 6. Demonstrate proficiency with industry accepted prototyping, modeling, build and maker tools and techniques.<br>
-This is what I will beable to-do upon completeion of my degree at UAT and then change the world for the better.
+7. This is what I will beable to-do upon completeion of my degree at UAT and then change the world for the better.<br>
